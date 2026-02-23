@@ -1,89 +1,120 @@
 [
   "Episodio 4: \"La maldición del héroe Kuronaka\"",
-  
-  "Héroe Kuronaka<br>\"Aquí no hay nada...<br>He mirado dentro del jarrón, como me ha dicho la diosa, pero no hay nada.\"",
-  
+  "Héroe Kuronaka",
+  "\"Aquí no hay nada...",
+  "He mirado dentro del jarrón, como me ha dicho la diosa, pero no hay nada.\"",
   "Murmuró el héroe Kuronaka, sin darse cuenta.",
-  
-  "Héroe Kuronaka<br>\"Supongo que volveré y se lo comentaré a la diosa.\"",
-  
-  "Murmuró para sus adentros, y decidió regresar por el puente.<br>Pero sus pies no se movían.",
-  
-  "Héroe Kuronaka<br>\"...\"",
-  
-  "Sacudió la cabeza, tratando de despejar la mente.<br>Pero la duda persistía. No podía ignorarla.",
-  
-  "Héroe Kuronaka<br>\"Algo no encaja...<br>¿Para qué tengo que examinar un jarrón vacío?\"",
-  
+  "Héroe Kuronaka",
+  "\"Supongo que volveré y se lo comentaré a la diosa.\"",
+  "Murmuró para sus adentros, y decidió regresar por el puente.",
+  "Pero sus pies no se movían.",
+  "Héroe Kuronaka",
+  "\"...\"",
+  "Sacudió la cabeza, tratando de despejar la mente.",
+  "Pero la duda persistía. No podía ignorarla.",
+  "Héroe Kuronaka",
+  "\"Algo no encaja...",
+  "¿Para qué tengo que examinar un jarrón vacío?\"",
   "La duda y la inquietud en su interior iban creciendo.",
-  
-  "Héroe Kuronaka<br>\"¿Qué sentido tiene esto?<br>¿Por qué tengo que hacerlo?\"",
-  
-  "Un ruido blanco le nubló la vista.<br>Al mismo tiempo, le abrumó un dolor de cabeza descomunal.",
-  
-  "Héroe Kuronaka<br><span class=\"txt-effect effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
-  
+  "Héroe Kuronaka",
+  "\"¿Qué sentido tiene esto?",
+  "¿Por qué tengo que hacerlo?\"",
+  "Un ruido blanco le nubló la vista.",
+  "Al mismo tiempo, le abrumó un dolor de cabeza descomunal.",
+  "Héroe Kuronaka",
+  "<span class=\"txt-effect effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
   "Otra vez sentía que tenía la mente <span class=\"txt-effect effect-12-stop\">difusa y saturada</span>.",
-  
-  "Héroe Kuronaka<br>\"No... no puedo pensar con claridad.<br>D-da igual. Voy a volver con la diosa.\"",
-  
-  "Después de todo, solo podía confiar en la diosa.<br>Mientras confíes en la diosa, todo saldrá bien.<br>Lo sabía en su corazón.<br><br>Los pies del héroe Kuronaka se pusieron en marcha para volver con la diosa.<br>Cruzó el puente.<br><br>Pero aun así...<br>Las dudas volvieron a acumularse en su interior.",
-  
-  "Héroe Kuronaka<br>\"Me pregunto...<br>¿Por qué me obliga la diosa a hacer esto?\"",
-  
-  "Sus pies se detuvieron.<br><br><span class=\"txt-effect effect-12-stop\">La niebla</span> regresó. Sus pies volvieron a moverse.<br>Y, sin embargo...",
-  
-  "Héroe Kuronaka<br>\"No paran de hablar de un héroe que derrotará al Rey Demonio...<br>Pero ni siquiera he salido de la aldea.\"",
-  
+  "Héroe Kuronaka",
+  "\"No... no puedo pensar con claridad.",
+  "D-da igual. Voy a volver con la diosa.\"",
+  "Después de todo, solo podía confiar en la diosa.",
+  "Mientras confíes en la diosa, todo saldrá bien.",
+  "Lo sabía en su corazón.",
+  "Los pies del héroe Kuronaka se pusieron en marcha para volver con la diosa.",
+  "Cruzó el puente.",
+  "Pero aun así...",
+  "Las dudas volvieron a acumularse en su interior.",
+  "Héroe Kuronaka",
+  "\"Me pregunto...",
+  "¿Por qué me obliga la diosa a hacer esto?\"",
+  "Sus pies se detuvieron.",
+  "<span class=\"txt-effect effect-12-stop\">La niebla</span> regresó. Sus pies volvieron a moverse.",
+  "Y, sin embargo...",
+  "Héroe Kuronaka",
+  "\"No paran de hablar de un héroe que derrotará al Rey Demonio...",
+  "But I haven't even left the village yet.\"",
   "Se detuvo tras dar apenas un par de pasos sobre el puente.",
-  
-  "Héroe Kuronaka<br>\"¿Cuánto tiempo llevo en esta aldea?\"",
-  
-  "La duda fue creciendo.<br>Pero cada vez que intentaba recordar algo...<br><br><span class=\"txt-effect effect-12-stop\">La niebla</span> volvía a cubrir su mente.",
-  
-  "Héroe Kuronaka<br>\"¿Por qué no puedo recordar nada de nada?<br>No tengo recuerdos ni de antes ni de después de llegar a la aldea.\"",
-  
-  "El <span class=\"txt-effect effect-13\"><span>m</span><span>a</span><span>r</span><span>e</span><span>o</span></span> comenzó a apoderarse de él poco a poco.<br>El puente se balanceaba bajo sus pies, tan inestable como el agua que fluye.<br><br>Finalmente, se dio cuenta de que ya no podía moverse.",
-  
-  "Héroe Kuronaka<br>\"¿Soy siquiera un héroe de verdad?<br>¿Quién era antes de llegar aquí? ¿Qué hacía?\"",
-  
+  "Héroe Kuronaka",
+  "\"¿Cuánto tiempo llevo en esta aldea?\"",
+  "La duda fue creciendo.",
+  "Pero cada vez que intentaba recordar algo...",
+  "<span class=\"txt-effect effect-12-stop\">La niebla</span> volvía a cubrir su mente.",
+  "Héroe Kuronaka",
+  "\"¿Por qué no puedo recordar nada de nada?",
+  "No tengo recuerdos ni de antes ni de después de llegar a la aldea.\"",
+  "El <span class=\"txt-effect effect-13\"><span>m</span><span>a</span><span>r</span><span>e</span><span>o</span></span> comenzó a apoderarse de él poco a poco.",
+  "El puente se balanceaba bajo sus pies, tan inestable como el agua que fluye.",
+  "Finalmente, se dio cuenta de que ya no podía moverse.",
+  "Héroe Kuronaka",
+  "\"¿Soy siquiera un héroe de verdad?",
+  "¿Quién era antes de llegar aquí? ¿Qué hacía?\"",
   "Un ruido blanco le nubló la vista de nuevo.",
-  
-  "Héroe Kuronaka<br><span class=\"txt-effect effect-05-stop effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
-  
+  "Héroe Kuronaka",
+  "<span class=\"txt-effect effect-05-stop effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
   "El intensísimo dolor de cabeza le hizo caer de rodillas.",
-  
-  "Héroe Kuronaka<br>\"¡¿Qué demonios?!<br>¿Por qué cuando intento recordar...?\"",
-  
-  "Cada vez que intentaba indagar en sus recuerdos, le envolvía una niebla estática, y un gran dolor le atravesaba la cabeza.<br>Como si quisiera impedirle recordar algo...",
-  
-  "Héroe Kuronaka<br>\"¡¿Qué rayos?!<br>¡¿Qu-qué me pasa?!\"",
-  
-  "Se encogió sobre sí mismo, agarrándose la cabeza.<br><br>Entonces lo vio.<br>Más allá del ruido y la niebla...<br><br>No podía creerlo.",
-  
-  "Héroe Kuronaka<br>\"¿Eh?\"",
-  
-  "Más allá del pasamanos del puente...<br>Había una persona...<br><br>Caminando por el aire.<br><br>Había alguien caminando por el aire como si tuviera los pies en el suelo.<br><br>Era una chica.<br>Una chica vestida de manera excéntrica y maquillada hasta las cejas.",
-  
-  "¿?<br>\"Qué raaaro.<br>¿No era por aquí?\"",
-  
+  "Héroe Kuronaka",
+  "\"¡¿Qué demonios?!",
+  "¿Por qué cuando intento recordar...?\"",
+  "Cada vez que intentaba indagar en sus recuerdos, le envolvía una niebla estática, y un gran dolor le atravesaba la cabeza.",
+  "Como si quisiera impedirle recordar algo...",
+  "Héroe Kuronaka",
+  "\"¡¿Qué rayos?!",
+  "¡¿Qu-qué me pasa?!\"",
+  "Se encogió sobre sí mismo, agarrándose la cabeza.",
+  "Entonces lo vio.",
+  "Más allá del ruido y la niebla...",
+  "No podía creerlo.",
+  "Héroe Kuronaka",
+  "\"¿Eh?\"",
+  "Más allá del pasamanos del puente...",
+  "Había una persona...",
+  "Caminando por el aire.",
+  "Había alguien caminando por el aire como si tuviera los pies en el suelo.",
+  "Era una chica.",
+  "Una chica vestida de manera excéntrica y maquillada hasta las cejas.",
+  "¿?",
+  "\"Qué raaaro.",
+  "¿No era por aquí?\"",
   "La chica habló sin percatarse de la presencia de Kuronaka.",
-  
-  "¿?<br>\"Oye, Saigo.<br>¿No huele que alimenta por aquí?\"",
-  
-  "Tras decir eso, miró hacia atrás.<br>Y entonces...<br><br>Un hombre enorme, con una vestimenta de lo más extraña, apareció tras ella.<br>Al igual que ella, parecía caminar por el aire.",
-  
-  "¿?<br>\"Ni idea. No tengo un olfato de sabueso como el tuyo.<br>Y vamos tarde. Tenemos que ir al punto de encuentro.\"",
-  
-  "¿?<br>\"Jo, vaaale...<br>En fin.\"",
-  
-  "Dejó caer los hombros en señal de derrota.<br>Y con eso, se fueron por donde habían venido.<br><br>Caminando por el aire.",
-  
-  "Héroe Kuronaka<br>\"...\"",
-  
-  "El héroe Kuronaka no tenía palabras.<br>Algo así era imposible, ¿verdad?",
-  
-  "Héroe Kuronaka<br>\"¿Eh? ¡¿Qué ha sido eso?!<br>Estaban... ¡¿andando por el aire?!\"",
-  
-  "Tenía que ser una alucinación, ¿no?<br>¿O quizá se había vuelto loco?<br><br>¿Qué estaba pasando?<br>No lograba entenderlo.<br>Pero ¿qué...?<br><br>La niebla de su mente se disipó.<br>Recuperó el equilibrio.<br><br>El héroe Kuronaka salió corriendo a buscar a la diosa."
+  "¿?",
+  "\"Oye, Saigo.",
+  "¿No huele que alimenta por aquí?\"",
+  "Tras decir eso, miró hacia atrás.",
+  "Y entonces...",
+  "Un hombre enorme, con una vestimenta de lo más extraña, apareció tras ella.",
+  "Al igual que ella, parecía caminar por el aire.",
+  "¿?",
+  "\"Ni idea. No tengo un olfato de sabueso como el tuyo.",
+  "Y vamos tarde. Tenemos que ir al punto de encuentro.\"",
+  "¿?",
+  "\"Jo, vaaale...",
+  "En fin.\"",
+  "Dejó caer los hombros en señal de derrota.",
+  "Y con eso, se fueron por donde habían venido.",
+  "Caminando por el aire.",
+  "Héroe Kuronaka",
+  "\"...\"",
+  "El héroe Kuronaka no tenía palabras.",
+  "Algo así era imposible, ¿verdad?",
+  "Héroe Kuronaka",
+  "\"¿Eh? ¡¿Qué ha sido eso?!",
+  "Estaban... ¡¿andando por el aire?!\"",
+  "Tenía que ser una alucinación, ¿no?",
+  "¿O quizá se había vuelto loco?",
+  "¿Qué estaba pasando?",
+  "No lograba entenderlo.",
+  "Pero ¿qué...?",
+  "La niebla de su mente se disipó.",
+  "Recuperó el equilibrio.",
+  "El héroe Kuronaka salió corriendo a buscar a la diosa."
 ]

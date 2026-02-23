@@ -1,167 +1,217 @@
 [
   "Episodio 6: \"La muerte del héroe Kuronaka\"",
-
-  "El héroe Kuronaka salió corriendo a toda prisa.<br>Estaba seguro de haber llegado tan rápido como pudo.<br>Y, aun así...<br><br>No había nadie.<br>Ni rastro de vida alguna.<br>Había un silencio sepulcral. Como si la aldea llevara desierta una eternidad.",
-
-  "Héroe Kuronaka<br>\"¿D-dónde está todo el mundo?\"",
-
-  "Por mucho que corriera por la aldea y buscara en todas partes...<br>No encontró a nadie.",
-
-  "Héroe Kuronaka<br>\"¡¿Qu-qué narices ha pasado?!\"",
-
-  "El héroe Kuronaka echó un vistazo a la entrada de la aldea.<br>Normalmente, había un guerrero con un hacha montando guardia, pero hoy no había nadie.<br><br>(A lo mejor puedo irme de la aldea.)",
-
-  "Héroe Kuronaka<br>\"No pierdo nada por intentarlo.\"",
-
+  "El héroe Kuronaka salió corriendo a toda prisa.",
+  "Estaba seguro de haber llegado tan rápido como pudo.",
+  "Y, aun así...",
+  "No había nadie.",
+  "Ni rastro de vida alguna.",
+  "Había un silencio sepulcral. Como si la aldea llevara desierta una eternidad.",
+  "Héroe Kuronaka",
+  "\"¿D-dónde está todo el mundo?\"",
+  "Por mucho que corriera por la aldea y buscara en todas partes...",
+  "No encontró a nadie.",
+  "Héroe Kuronaka",
+  "\"¡¿Qu-qué narices ha pasado?!\"",
+  "El héroe Kuronaka echó un vistazo a la entrada de la aldea.",
+  "Normalmente, había un guerrero con un hacha montando guardia, pero hoy no había nadie.",
+  "(A lo mejor puedo irme de la aldea.)",
+  "Héroe Kuronaka",
+  "\"No pierdo nada por intentarlo.\"",
   "El héroe Kuronaka se armó de valor y tomó una decisión.",
-
-  "Héroe Kuronaka<br>\"¡Voy a intentar descubrir qué ha pasado!\"",
-
-  "El héroe Kuronaka salió de la aldea con valentía.<br><br>Lo que le esperaba al otro lado era un páramo inmenso y desolado.<br>No había ni caminos ni edificios a la vista.<br>Se extendía sin fin hacia el horizonte.<br><br>(Así que este es el exterior de la aldea...)<br><br>Siguió avanzando con cautela.<br>Ya sabía que iba a salir de la aldea algún día, claro. Pero jamás se le había pasado por la cabeza que iba a ser de esta manera.<br><br>No había avanzado demasiado en su viaje por el mundo exterior cuando vio a lo lejos una silueta en el suelo.",
-
-  "Héroe Kuronaka<br>\"¡Eh!\"",
-
-  "Mientras se acercaba corriendo, se dio cuenta de que se trataba de la chica de la aldea que solía saludarle.<br><br>Aunque le llamó, no hubo respuesta. Estaba inmóvil. Como...<br>Como un cadáver.",
-
-  "Héroe Kuronaka<br>\"N-no puede ser...\"",
-
-  "Y, no mucho más adelante, divisó otra silueta.<br>El héroe Kuronaka fue corriendo hacia ella.<br>Se dio cuenta enseguida de que era aquel anciano orgulloso que a menudo se vanagloriaba de haberle salvado.<br><br>Le llamó, pero el anciano no respondía. No podía.<br>Igual que un cadáver...",
-
-  "Héroe Kuronaka<br>\"...\"",
-
-  "Y no muy lejos de allí se encontraban los cadáveres del gato y el limo.<br><br>Una vez más, gritó en vano.<br>No eran más que cadáveres, después de todo.",
-
-  "Héroe Kuronaka<br>\"¿Por qué ha tenido que pasar esto?\"",
-
+  "Héroe Kuronaka",
+  "\"¡Voy a intentar descubrir qué ha pasado!\"",
+  "El héroe Kuronaka salió de la aldea con valentía.",
+  "Lo que le esperaba al otro lado era un páramo inmenso y desolado.",
+  "No había ni caminos ni edificios a la vista.",
+  "Se extendía sin fin hacia el horizonte.",
+  "(Así que este es el exterior de la aldea...)",
+  "Siguió avanzando con cautela.",
+  "Ya sabía que iba a salir de la aldea algún día, claro. Pero jamás se le había pasado por la cabeza que iba a ser de esta manera.",
+  "No había avanzado demasiado en su viaje por el mundo exterior cuando vio a lo lejos una silueta en el suelo.",
+  "Héroe Kuronaka",
+  "\"¡Eh!\"",
+  "Mientras se acercaba corriendo, se dio cuenta de que se trataba de la chica de la aldea que solía saludarle.",
+  "Aunque le llamó, no hubo respuesta. Estaba inmóvil. Como...",
+  "Como un cadáver.",
+  "Héroe Kuronaka",
+  "\"N-no puede ser...\"",
+  "Y, no mucho más adelante, divisó otra silueta.",
+  "El héroe Kuronaka fue corriendo hacia ella.",
+  "Se dio cuenta enseguida de que era aquel anciano orgulloso que a menudo se vanagloriaba de haberle salvado.",
+  "Le llamó, pero el anciano no respondía. No podía.",
+  "Igual que un cadáver...",
+  "Héroe Kuronaka",
+  "\"...\"",
+  "Y no muy lejos de allí se encontraban los cadáveres del gato y el limo.",
+  "Una vez más, gritó en vano.",
+  "No eran más que cadáveres, después de todo.",
+  "Héroe Kuronaka",
+  "\"¿Por qué ha tenido que pasar esto?\"",
   "El héroe Kuronaka se quedó ahí de pie, estupefacto.",
-
-  "Héroe Kuronaka<br>\"¡¿Quién sería capaz de hacer algo así?!\"",
-
-  "Tiene que haber sido el Rey Demonio.<br>El héroe Kuronaka estaba convencido.<br>¡Tiene que ser culpa suya!<br>¡El Rey Demonio ha atacado la aldea!<br><br>(Debo encontrarle...)<br><br>El héroe Kuronaka apretó los dientes y salió corriendo.<br><br>El Rey Demonio no debía de andar muy lejos.<br>Con esa idea en mente, se puso a dar vueltas por el pueblo.<br>Entonces, vio una silueta corpulenta pero familiar.<br><br>El guerrero sostenía su hacha en alto, listo para atacar.",
-
-  "Héroe Kuronaka<br>\"¡Guerrero!\"",
-
+  "Héroe Kuronaka",
+  "\"¡¿Quién sería capaz de hacer algo así?!\"",
+  "Tiene que haber sido el Rey Demonio.",
+  "El héroe Kuronaka estaba convencido.",
+  "¡Tiene que ser culpa suya!",
+  "¡El Rey Demonio ha atacado la aldea!",
+  "(Debo encontrarle...)",
+  "El héroe Kuronaka apretó los dientes y salió corriendo.",
+  "El Rey Demonio no debía de andar muy lejos.",
+  "Con esa idea en mente, se puso a dar vueltas por el pueblo.",
+  "Entonces, vio una silueta corpulenta pero familiar.",
+  "El guerrero sostenía su hacha en alto, listo para atacar.",
+  "Héroe Kuronaka",
+  "\"¡Guerrero!\"",
   "El héroe Kuronaka llamó la atención del guerrero.",
-
-  "Héroe Kuronaka<br>\"¡No puedo creerlo!<br>¡Me alegro tanto de que estés bien!\"",
-
-  "Pero el guerrero no le prestó atención.<br>En su lugar, afiló la mirada y se centró en los dos hombres que tenía delante.",
-
-  "Héroe Kuronaka<br>\"Espera. ¿Y estos quiénes son?\"",
-
-  "Precían sospechosos.<br>Tenían una mirada penetrante y vestían de forma extraña.<br>Uno de ellos tenía el pelo azul; y el otro, blanco.<br>Incluso alguien tan ajeno al mundo exterior como el héroe Kuronaka supo enseguida que esos hombres no eran normales en absoluto.",
-
-  "Guerrero<br>\"¡Son los secuaces del Rey Demonio!<br>¡Vengaré a la aldea!\"",
-
-  "Héroe Kuronaka<br>\"¡¿C-cómo?! ¡¿En serio?!<br>¡Cómo os atrevéis!\"",
-
+  "Héroe Kuronaka",
+  "\"¡No puedo creerlo!",
+  "¡Me alegro tanto de que estés bien!\"",
+  "Pero el guerrero no le prestó atención.",
+  "En su lugar, agudizó la mirada y se centró en los dos hombres frente a él.",
+  "Héroe Kuronaka",
+  "\"Espera. ¿Y estos quiénes son?\"",
+  "Parecían sospechosos.",
+  "Tenían una mirada penetrante y vestían de forma extraña.",
+  "Uno de ellos tenía el pelo azul; y el otro, blanco.",
+  "Incluso alguien tan ajeno al mundo exterior como el héroe Kuronaka supo enseguida que esos hombres no eran normales en absoluto.",
+  "Guerrero",
+  "\"¡Son los secuaces del Rey Demonio!",
+  "¡Vengaré a la aldea!\"",
+  "Héroe Kuronaka",
+  "\"¡¿C-cómo?! ¡¿En serio?!",
+  "¡Cómo os atrevéis!\"",
   "El héroe Kuronaka se puso junto al guerrero, dispuesto a luchar contra esos dos misteriosos hombres.",
-
-  "¿?<br>\"¿Eh? Espera, ¿ese no es...?\"",
-
-  "Uno de los hombres se fijó en el héroe Kuronaka; su expresión cambió, como si hubiera caído en algo.<br>El hombre alto y canoso no mostró reacción alguna, pero se acercó al del pelo azul para <span class=\"txt-effect effect-13\"><span>s</span><span>u</span><span>s</span><span>u</span><span>r</span><span>r</span><span>a</span><span>r</span><span>l</span><span>e</span></span> algo.",
-
-  "¿?<br>\"Kazuki.\"",
-
-  "El hombre de pelo azul, que al parecer se llamaba Kazuki, asintió.<br>Ambos fijaron la mirada en el héroe Kuronaka.",
-
-  "¿?<br>\"No cabe duda. Es el de la foto.<br>Iroha dijo que era su...\"",
-
+  "¿?",
+  "\"¿Eh? Espera, ¿ese no es...?\"",
+  "Uno de los hombres se fijó en el héroe Kuronaka; su expresión cambió, como si hubiera caído en algo.",
+  "El hombre alto y canoso no mostró reacción alguna, pero se acercó al del pelo azul para <span class=\"txt-effect effect-13\"><span>s</span><span>u</span><span>s</span><span>u</span><span>r</span><span>r</span><span>a</span><span>r</span><span>l</span><span>e</span></span> algo.",
+  "¿?",
+  "\"Kazuki.\"",
+  "El hombre de pelo azul, que al parecer se llamaba Kazuki, asintió.",
+  "Ambos fijaron la mirada en el héroe Kuronaka.",
+  "¿?",
+  "\"No cabe duda. Es el de la foto.",
+  "Iroha dijo que era su...\"",
   "¿Iroha?",
-
-  "Héroe Kuronaka<br>\"¿De qué habláis?<br>¿Quiénes sois?\"",
-
+  "Héroe Kuronaka",
+  "\"¿De qué habláis?",
+  "¿Quiénes sois?\"",
   "Las palabras del héroe Kuronaka estaban cargadas de hostilidad, sin embargo, el hombre de pelo azul ni se inmutó.",
-
-  "¿?<br>\"Cálmate. Hemos venido a ayudarte.\"",
-
-  "Héroe Kuronaka<br>\"¿Eh? ¿Cómo que a ayudarme?\"",
-
+  "¿?",
+  "\"Cálmate. Hemos venido a ayudarte.\"",
+  "Héroe Kuronaka",
+  "\"¿Eh? ¿Cómo que a ayudarme?\"",
   "El héroe Kuronaka se enfureció aún más y alzó la voz.",
-
-  "Héroe Kuronaka<br>\"¡Tiene narices que lo digan unos asesinos!<br>¡Habéis matado a muchos inocentes! ¡No hacían más que llevar una vida pacífica en la aldea, y los habéis matado!\"",
-
+  "Héroe Kuronaka",
+  "\"¡Tiene narices que lo digan unos asesinos!",
+  "¡Habéis matado a muchos inocentes! ¡No hacían más que llevar una vida pacífica en la aldea, y los habéis matado!\"",
   "Al pensar en los aldeanos caídos, la ira se apoderó de él.",
-
-  "¿?<br>\"Me da la impresión de que hay un malentendido. ¿'Asesinos'?\"",
-
+  "¿?",
+  "\"Me da la impresión de que hay un malentendido. ¿'Asesinos'?\"",
   "El hombre de pelo azul respondió al canoso, como si el héroe Kuronaka no estuviera ahí.",
-
-  "¿?<br>\"Quizá le han lavado el cerebro.<br>Tratándose de él, no me extrañaría.\"",
-
-  "¿?<br>\"¿Lavado el cerebro?\"",
-
-  "El héroe Kuronaka no entendía ni una palabra.<br>¿Qué es eso de 'lavar el cerebro'?<br><br>(¿De qué narices están hablando?<br>¿Y quiénes son estos dos?)",
-
-  "Guerrero<br>\"¡No te dejes engañar, héroe Kuronaka!<br>¡Son los secuaces del Rey Demonio!\"",
-
-  "El guerrero gritó para darle ánimos.<br>Pero en su lugar despertó el interés del hombre de pelo azul.",
-
-  "¿?<br>\"¿Kuronaka?<br>Entonces sí que eres 'Yo Kuronaka,' ¿verdad?\"",
-
-  "Héroe Kuronaka<br>\"¿Yo... Kuronaka?\"",
-
-  "Un ruido blanco le cubrió los ojos.<br><br>¿Qué quiere decir con 'Yo Kuronaka'?<br><br>(Soy el héroe Kuronaka.<br>Estoy seguro de ello.<br>Y, sin embargo...)<br><br>(Entonces, ¿quién es 'Yo'?<br>La diosa me llamó así antes de desmoronarse...)",
-
-  "¿?<br>\"¿Qué te pasa? ¿Me equivoco?\"",
-
+  "¿?",
+  "\"Quizá le han lavado el cerebro.",
+  "Tratándose de él, no me extrañarías.\"",
+  "¿?",
+  "\"¿Lavado el cerebro?\"",
+  "El héroe Kuronaka no entendía ni una palabra.",
+  "¿Qué es eso de 'lavar el cerebro'?",
+  "(¿De qué narices están hablando?",
+  "¿Y quiénes son estos dos?)",
+  "Guerrero",
+  "\"¡No te dejes engañar, héroe Kuronaka!",
+  "¡Son los secuaces del Rey Demonio!\"",
+  "El guerrero gritó para darle ánimos.",
+  "Pero en su lugar despertó el interés del hombre de pelo azul.",
+  "¿?",
+  "\"¿Kuronaka?",
+  "Entonces sí que eres 'Yo Kuronaka,' ¿verdad?\"",
+  "Héroe Kuronaka",
+  "\"¿Yo... Kuronaka?\"",
+  "Un ruido blanco le cubrió los ojos.",
+  "¿Qué quiere decir con 'Yo Kuronaka'?",
+  "(Soy el héroe Kuronaka.",
+  "Estoy seguro de ello.",
+  "And yet...)",
+  "(Entonces, ¿quién es 'Yo'?",
+  "La diosa me llamó así antes de desmoronarse...)",
+  "¿?",
+  "\"¿Qué te pasa? ¿Me equivoco?\"",
   "El hombre del pelo azul habló, captando la atención del héroe Kuronaka.",
-
-  "¿?<br>\"O quizá... ¿resulta que te han borrado la memoria?\"",
-
-  "Guerrero<br>\"¡¿A qué esperas?!\"",
-
+  "¿?",
+  "\"O quizá... ¿resulta que te han borrado la memoria?\"",
+  "Guerrero",
+  "\"¡¿A qué esperas?!\"",
   "El guerrero, impaciente, gritó al héroe Kuronaka.",
-
-  "Guerrero<br>\"¡Tenemos que vengar a los aldeanos!\"",
-
-  "¿?<br>\"Tú. Cierra el pico.\"",
-
-  "Poco después de <span class=\"txt-effect effect-13\"><span>p</span><span>r</span><span>o</span><span>n</span><span>u</span><span>n</span><span>c</span><span>i</span><span>a</span><span>r</span>&nbsp;<span>e</span><span>s</span><span>a</span><span>s</span>&nbsp;<span>p</span><span>a</span><span>l</span><span>a</span><span>b</span><span>r</span><span>a</span><span>s</span></span>, el hombre canoso se abalanzó sobre el guerrero como un rayo y le asestó un puñetazo limpio.<br>Fue tan rápido que apenas se le podía seguir el ritmo.<br>Y resultaba difícil de creer que un hombre tan alto y corpulento pudiera moverse tan rápido.",
-
-  "Guerrero<br><span class=\"txt-effect effect-05-big-stop\">\"¡Aaagh!\"</span>",
-
-  "Cuando conectó el golpe, el guerrero salió volando y se estrelló contra la pared de una casa.<br>La fuerza del impacto hizo que <span class=\"txt-effect effect-02\">la casa temblara</span> hasta los cimientos.",
-
-  "¿?<br>\"Bueno, a lo que íbamos.\"",
-
+  "Guerrero",
+  "\"¡Tenemos que vengar a los aldeanos!\"",
+  "¿?",
+  "\"Tú. Cierra el pico.\"",
+  "Poco después de <span class=\"txt-effect effect-13\"><span>p</span><span>r</span><span>o</span><span>n</span><span>u</span><span>n</span><span>c</span><span>i</span><span>a</span><span>r</span>&nbsp;<span>e</span><span>s</span><span>a</span><span>s</span>&nbsp;<span>p</span><span>a</span><span>l</span><span>a</span><span>b</span><span>r</span><span>a</span><span>s</span></span>, el hombre canoso se abalanzó sobre el guerrero como un rayo y le asestó un puñetazo limpio.",
+  "Fue tan rápido que apenas se le podía seguir el ritmo.",
+  "Y resultaba difícil de creer que un hombre tan alto y corpulento pudiera moverse tan rápido.",
+  "Guerrero",
+  "<span class=\"txt-effect effect-05-big-stop\">\"¡Aaagh!\"</span>",
+  "Cuando conectó el golpe, el guerrero salió volando y se estrelló contra la pared de una casa.",
+  "La fuerza del impacto hizo que <span class=\"txt-effect effect-02\">la casa temblara</span> hasta los cimientos.",
+  "¿?",
+  "\"Bueno, a lo que íbamos.\"",
   "El hombre de pelo azul, que ni se había inmutado, siguió interrogándome.",
-
-  "¿?<br>\"Dime, Yo Kuronaka. ¿Te suenan los nombres de 'Tsuki Iroha' y 'Sui Yakumo'?\"",
-
-  "Héroe Kuronaka<br>\"Tsuki... Iroha...\"",
-
+  "¿?",
+  "\"Dime, Yo Kuronaka. ¿Te suenan los nombres de 'Tsuki Iroha' y 'Sui Yakumo'?\"",
+  "Héroe Kuronaka",
+  "\"Tsuki... Iroha...\"",
   "La inquietud creció en su interior.",
-
-  "Héroe Kuronaka<br>\"¿Sui... Yakumo?...\"",
-
-  "En cuanto pronunció esos nombres, un ruido violento inundó sus sentidos.<br>Un fuerte dolor de cabeza le hizo caer de rodillas.",
-
-  "Héroe Kuronaka<br><span class=\"txt-effect effect-05-big-stop effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
-
-  "En ese momento...<br>Aquella pared de <span class=\"txt-effect effect-02\">la casa que temblaba</span> <span class=\"txt-effect effect-03\">se derrumbó</span>.<br>Pero no la cosa no quedó ahí...",
-
-  "Héroe Kuronaka<br>\"¿Eh?\"",
-
-  "No haía nada en su interior.<br>Ni siquiera era una pared de verdad. No era más que una fachada sujetada por un marco barato.<br><br>Le siguieron el resto de paredes de la aldea. Lo que una vez fueron filas y filas de casas fueron derrumbándose, desvelando la farsa.<br>No había ni una edificio real. Todo era mentira.",
-
-  "Héroe Kuronaka<br>\"¡¿Qu-qué narices?!\"",
-
+  "Héroe Kuronaka",
+  "\"¿Sui... Yakumo?...\"",
+  "En cuanto pronunció esos nombres, un ruido violento inundó sus sentidos.",
+  "Un fuerte dolor de cabeza le hizo caer de rodillas.",
+  "Héroe Kuronaka",
+  "<span class=\"txt-effect effect-05-big-stop effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
+  "En ese momento...",
+  "Aquella pared de <span class=\"txt-effect effect-02\">la casa que temblara</span> <span class=\"txt-effect effect-03\">se derrumbó</span>.",
+  "Pero la cosa no quedó ahí...",
+  "Héroe Kuronaka",
+  "\"¿Eh?\"",
+  "No había nada en su interior.",
+  "Ni siquiera era una pared de verdad. No era más que una fachada sujetada por un marco barato.",
+  "Le siguieron el resto de paredes de la aldea. Lo que una vez fueron filas y filas de casas fueron derrumbándose, desvelando la farsa.",
+  "No había ni un edificio real. Todo era mentira.",
+  "Héroe Kuronaka",
+  "\"¡¿Qu-qué narices?!\"",
   "El héroe Kuronaka observaba a través del ruido. Perplejo.",
-
-  "Héroe Kuronaka<br>\"¡¿Qué rayos está pasando?!\"",
-
-  "El héroe Kuronaka, presa del pánico, gritó.<br>El ruido que le nublaba la vista empeoró.",
-
-  "<span class=\"txt-effect effect-07\" data-text=\"H?r#e Kur%na*a\">H?r#e Kur%na*a</span><br>\"¡¿Qué significa esto?!<br>¡Eran casas! ¡Y ahora están aplastadas como si fueran juguetes!\"",
-
-  "Ya no podía escuchar su propia voz.<br>Su ego se desvaneció junto con su sentido del oído.<br><br>(¿Estoy aquí de verdad?<br>¿Quién soy?)",
-
-  "<span class=\"txt-effect effect-07\" data-text=\"H?r#e Kur%na*a\">H?r#e Kur%na*a</span><br><span class=\"txt-effect effect-05-big-stop effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
-
-  "Un instenso y desgarrador dolor de cabeza arrasaba con sus sentidos.",
-
-  "<span class=\"txt-effect effect-07\" data-text=\"Y0 Kur%na*a\">Y0 Kur%na*a</span><br><span class=\"txt-effect effect-05-big\">\"¡Aaaaaaaaaaaahhhhh!\"</span>",
-
-  "Soltó un grito desgarrador mientras su mundo era inundado por el ruido.<br><br>And thus...<br>El mundo se sumió en la oscuridad.<br><br>...<br>......<br>.........<br><br>Entre la oscuridad pudo distinguir dos rostros.<br>El de una chica rubia y el de un chico pelirrojo.<br>Le resultaban... familiares.<br>¡Pues claro que sí!<br>Si los dos eran sus...<br><br>...<br>......<br>.........<br><br>Algo hizo clic en su cabeza.<br><br>Y todo cambió.<br>El mundo que le rodeaba...<br>E incluso él mismo..."
+  "Héroe Kuronaka",
+  "\"¡¿Qué rayos está pasando?!\"",
+  "El héroe Kuronaka, presa del pánico, gritó.",
+  "El ruido que le nublaba la vista empeoró.",
+  "<span class=\"txt-effect effect-07\" data-text=\"H?r#e Kur%na*a\">H?r#e Kur%na*a</span>",
+  "\"¡¿Qué significa esto?!",
+  "¡Eran casas! ¡Y ahora están aplastadas como si fueran juguetes!\"",
+  "Ya no podía escuchar su propia voz.",
+  "Su ego se desvaneció junto con su sentido del oído.",
+  "(¿Estoy aquí de verdad?",
+  "¿Quién soy?)",
+  "<span class=\"txt-effect effect-07\" data-text=\"H?r#e Kur%na*a\">H?r#e Kur%na*a</span>",
+  "<span class=\"txt-effect effect-05-big-stop effect-07\" data-text=\"&quot;¡Arg!&quot;\">\"¡Arg!\"</span>",
+  "Un intenso y desgarrador dolor de cabeza arrasaba con sus sentidos.",
+  "<span class=\"txt-effect effect-07\" data-text=\"Y0 Kur%na*a\">Y0 Kur%na*a</span>",
+  "<span class=\"txt-effect effect-05-big\">\"¡Aaaaaaaaaaaahhhhh!\"</span>",
+  "Soltó un grito desgarrador mientras su mundo era inundado por el ruido.",
+  "Y así...",
+  "El mundo se sumió en la oscuridad.",
+  "...",
+  "......",
+  ".........",
+  "Entre la oscuridad pudo distinguir dos rostros.",
+  "El de una chica rubia y el de un chico pelirrojo.",
+  "Le resultaban... familiares.",
+  "¡Pues claro que sí!",
+  "Si los dos eran sus...",
+  "...",
+  "......",
+  ".........",
+  "Algo hizo clic en su cabeza.",
+  "Y todo cambió.",
+  "El mundo que le rodeaba...",
+  "E incluso él mismo..."
 ]
