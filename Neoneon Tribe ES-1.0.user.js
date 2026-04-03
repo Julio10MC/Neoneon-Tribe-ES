@@ -47,20 +47,24 @@
     }
 
     function applyAll() {
+        if (typeof observer !== 'undefined') observer.disconnect();
+
         const uiTargets = document.querySelectorAll('a, h2, h3, h4, span, li, p, .name, .main-txt, .prev, .next');
         const screenBtn = document.querySelector('.screen-btn.screen-mode-link img');
 
         if (screenBtn) {
             screenBtn.src = NEW_SCREEN_BTN_URL;
         }
+
         uiTargets.forEach(el => {
             el.childNodes.forEach(node => {
-                if (node.nodeType === 3) {
+                if (node.nodeType === 3) { // Text nodes only
                     const txt = node.nodeValue.replace(/\s+/g, ' ').trim();
 
                     if (dictionaries.global[txt] && node.nodeValue !== dictionaries.global[txt]) {
                         node.nodeValue = dictionaries.global[txt];
                     }
+
                     if (!Array.isArray(dictionaries.local) && dictionaries.local[txt] && node.nodeValue !== dictionaries.local[txt]) {
                         node.nodeValue = dictionaries.local[txt];
                     }
@@ -72,10 +76,10 @@
             const lines = Array.isArray(dictionaries.local[0]) ? dictionaries.local[0] : dictionaries.local;
             let lineIndex = 0;
 
-            const elements = document.querySelectorAll('.chapter-tl, .caption, .episode-tl, .story-inner p');
+            const storyElements = document.querySelectorAll('.chapter-tl, .caption, .episode-tl, .story-inner p:not(.illust-img)');
 
-            elements.forEach((el) => {
-                if (!el.innerHTML.trim()) return;
+            storyElements.forEach((el) => {
+                if (!el.textContent.trim() && el.querySelector('img')) return;
 
                 const parts = el.innerHTML.split(/<br\s*\/?>/i);
                 let updatedParts = [];
@@ -83,24 +87,23 @@
 
                 for (let i = 0; i < parts.length; i++) {
                     let part = parts[i];
-
-                    if (part.trim().length > 0) {
-                        if (lineIndex < lines.length) {
-                            const newText = lines[lineIndex];
-                            if (part.trim() !== newText.trim()) {
-                                part = newText;
-                                changed = true;
-                            }
-                            lineIndex++;
+                    if (part.trim().length > 0 && lineIndex < lines.length) {
+                        const newText = lines[lineIndex];
+                        if (part.trim() !== newText.trim()) {
+                            const tagMatch = part.trim().match(/^(<span[^>]*>)(.*)(<\/span>)$/i);
+                            part = tagMatch ? (tagMatch[1] + newText + tagMatch[3]) : newText;
+                            changed = true;
                         }
+                        lineIndex++;
                     }
                     updatedParts.push(part);
                 }
-
-                if (changed) {
-                    el.innerHTML = updatedParts.join("<br>");
-                }
+                if (changed) el.innerHTML = updatedParts.join("<br>");
             });
+        }
+
+        if (typeof observer !== 'undefined') {
+            observer.observe(document.body, { childList: true, subtree: true });
         }
     }
 
