@@ -90,8 +90,14 @@
                     if (part.trim().length > 0 && lineIndex < lines.length) {
                         const newText = lines[lineIndex];
                         if (part.trim() !== newText.trim()) {
+
                             const tagMatch = part.trim().match(/^(<span[^>]*>)(.*)(<\/span>)$/i);
-                            part = tagMatch ? (tagMatch[1] + newText + tagMatch[3]) : newText;
+
+                            if (tagMatch && !newText.trim().startsWith('<span')) {
+                                part = tagMatch[1] + newText + tagMatch[3];
+                            } else {
+                                part = newText;
+                            }
                             changed = true;
                         }
                         lineIndex++;
