@@ -5,6 +5,7 @@
 // @description  Traducción al español de Tribe Nine
 // @match        *://neoneon-tribe.com/*
 // @grant        GM_xmlhttpRequest
+// @grant        GM_addStyle
 // @connect      raw.githubusercontent.com
 // @run-at       document-end
 // @updateURL    https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/Neoneon_Tribe_ES.user.js
@@ -19,6 +20,73 @@
 
     let dictionaries = { global: {}, local: {} };
     let currentPath = "";
+
+    const fontCSS = `
+
+    /*DOTGOTHIC16*/
+    @font-face {
+        font-family: 'DotGothic16';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/DotGothic16-Regular.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    /*SHIPPORI MINCHO*/
+    @font-face {
+        font-family: 'Shippori Mincho';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ShipporiMincho-Regular.ttf') format('truetype');
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: 'Shippori Mincho';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ShipporiMincho-Medium.ttf') format('truetype');
+        font-weight: 500;
+    }
+    @font-face {
+        font-family: 'Shippori Mincho';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ShipporiMincho-SemiBold.ttf') format('truetype');
+        font-weight: 600;
+    }
+    @font-face {
+        font-family: 'Shippori Mincho';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ShipporiMincho-Bold.ttf') format('truetype');
+        font-weight: 700;
+    }
+    @font-face {
+        font-family: 'Shippori Mincho';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ShipporiMincho-ExtraBold.ttf') format('truetype');
+        font-weight: 800;
+    }
+
+    /*ZEN KAKU GOTHIC ANTIQUE*/
+    @font-face {
+        font-family: 'Zen Kaku Gothic Antique';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ZenKakuGothicAntique-Light.ttf') format('truetype');
+        font-weight: 300;
+    }
+    @font-face {
+        font-family: 'Zen Kaku Gothic Antique';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ZenKakuGothicAntique-Regular.ttf') format('truetype');
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: 'Zen Kaku Gothic Antique';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ZenKakuGothicAntique-Medium.ttf') format('truetype');
+        font-weight: 500;
+    }
+    @font-face {
+        font-family: 'Zen Kaku Gothic Antique';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ZenKakuGothicAntique-Bold.ttf') format('truetype');
+        font-weight: 700;
+    }
+    @font-face {
+        font-family: 'Zen Kaku Gothic Antique';
+        src: url('https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/fonts/ZenKakuGothicAntique-Black.ttf') format('truetype');
+        font-weight: 900;
+    }
+    `;
+
+    GM_addStyle(fontCSS);
 
     function loadDictionaries() {
         const path = window.location.pathname;
