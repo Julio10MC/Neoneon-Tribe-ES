@@ -2,6 +2,7 @@
 Traducción hecha por fans de la adaptación/continuación **no oficial** y sin ánimo de lucro del videojuego [Tribe Nine](https://tribenine.tokyo/en/) realizada por el círculo *dōjin* [Neoneon Tribe](https://x.com/neoneon_tribe). Puede leerse [aquí](https://neoneon-tribe.com/en/story/).
 
 ![Tribe Nine (Ver. Neoneon)](https://i.postimg.cc/rmYjyMB3/image.png)
+
 ## Introducción
 
 La iniciativa del grupo Neoneon Tribe nació con el objetivo de darle un final a la historia de Tribe Nine, que puso fin a su servicio prematuramente. Dicho grupo está formado por personas y empresas que trabajan desinteresadamente con ese fin. Entre sus integrantes se encuentran figuras clave de Tookyo Games y Akatsuki Games que participaron en su desarrrollo, como Kazutaka Kodaka (creador) y Katsunori Suginaka (exproductor).
@@ -15,14 +16,17 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 2. Selecciona en la barra superior el navegador que utilices.
 
 ![](https://i.postimg.cc/KYC4mW9H/image.png)
+
 3. Baja hasta el apartado "Descargar" y haz click en "Ir a la tienda".
 
 ![](https://i.postimg.cc/kg45KCz0/image.png)
+
 4. Instala la extensión desde la tienda de tu navegador.
 5. Haz click en el icono de extensiones de tu navegador.
 6. Haz click en los tres puntos al lado de "Tampermonkey" y selecciona "Administrar extensión".
 
-![image.png](https://i.postimg.cc/VLqqpfVf/image.png)
+![](https://i.postimg.cc/VLqqpfVf/image.png)
+
 7. En la ventana que se abre, activa las opciones de "Permitir scripts de usuario" y "Permitir el acceso a URL de archivos".
 6. 
   - **Si tu navegador está basado en Chromium** (Chrome, Edge, Opera...) Activa también el "Modo para desarrolladores"/"Modo Desarrollador".
@@ -36,25 +40,31 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 2. Se abrirá otra página en la que tendrás que hacer click en "Instalar".
 
 ![](https://i.postimg.cc/SQDqrCmC/image.png)
+
 3. Busca el icono de Tampermonkey en la barra de extensiones, haz click en él y selecciona "Panel de control".
 
 ![](https://i.postimg.cc/02Dnvdrc/image.png)
+
 4. Confirma que está instalado en la pestaña de "Userscripts instalados".
 
 ![](https://i.postimg.cc/436Rhh8M/image.png)
+
 #### Método 2:
 1. Busca el icono de Tampermonkey en la barra de extensiones, haz click en él y selecciona "Panel de control".
 
 ![](https://i.postimg.cc/02Dnvdrc/image.png)
+
 2. En la ventana que se abre, busca la pestalla de "Utilidades".
 3. En la parte inferior de la página, en el campo de "Importar desde URL", pega el siguiente enlace:
   - (https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES-1.0.user.js)
 4. Después, haz click en "Instalar".
 
 ![](https://i.postimg.cc/5NVvBcNL/image.png)
+
 5. Se abrirá otra página en la que tendrás que volver a hacer click en "Instalar".
 
 ![](https://i.postimg.cc/SQDqrCmC/image.png)
+
 6. Finalmente, confirma que está instalado en la pestaña de "Userscripts instalados".
 
 ![](https://i.postimg.cc/436Rhh8M/image.png)
