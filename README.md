@@ -28,7 +28,6 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 ![](https://i.postimg.cc/VLqqpfVf/image.png)
 
 7. En la ventana que se abre, activa las opciones de "Permitir scripts de usuario" y "Permitir el acceso a URL de archivos".
-6. 
   - **Si tu navegador está basado en Chromium** (Chrome, Edge, Opera...) Activa también el "Modo para desarrolladores"/"Modo Desarrollador".
 
 ![](https://i.postimg.cc/Z5mGzqYx/image.png)
