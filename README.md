@@ -1,5 +1,6 @@
 # La novela web de Tribe Nine en español
 Traducción hecha por fans de la adaptación/continuación **no oficial** y sin ánimo de lucro del videojuego [Tribe Nine](https://tribenine.tokyo/en/) realizada por el círculo *dōjin* [Neoneon Tribe](https://x.com/neoneon_tribe). Puede leerse [aquí](https://neoneon-tribe.com/en/story/).
+
 ![Tribe Nine (Ver. Neoneon)](https://i.postimg.cc/rmYjyMB3/image.png)
 ## Introducción
 
@@ -12,16 +13,20 @@ Cabe destacar que esta novela **es una secuela directa** del *anime* del mismo n
 Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alguna alternativa que permita gestionar *userscripts*) Las imágenes son orientativas, los nombres y ubicaciones concretos de las opciones pueden variar ligeramente en función de tu navegador:
 1. Haz click [aquí](https://www.tampermonkey.net/) para ir a la página web oficial de Tampermonkey.
 2. Selecciona en la barra superior el navegador que utilices.
+
 ![](https://i.postimg.cc/KYC4mW9H/image.png)
 3. Baja hasta el apartado "Descargar" y haz click en "Ir a la tienda".
+
 ![](https://i.postimg.cc/kg45KCz0/image.png)
 4. Instala la extensión desde la tienda de tu navegador.
 5. Haz click en el icono de extensiones de tu navegador.
 6. Haz click en los tres puntos al lado de "Tampermonkey" y selecciona "Administrar extensión".
+
 ![image.png](https://i.postimg.cc/VLqqpfVf/image.png)
 7. En la ventana que se abre, activa las opciones de "Permitir scripts de usuario" y "Permitir el acceso a URL de archivos".
 6. 
   - **Si tu navegador está basado en Chromium** (Chrome, Edge, Opera...) Activa también el "Modo para desarrolladores"/"Modo Desarrollador".
+
 ![](https://i.postimg.cc/Z5mGzqYx/image.png)
 
 ### Instalar el script en Tampermonkey
@@ -29,37 +34,48 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 #### Método 1:
 1. Haz click [aquí](https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES-1.0.user.js).
 2. Se abrirá otra página en la que tendrás que hacer click en "Instalar".
+
 ![](https://i.postimg.cc/SQDqrCmC/image.png)
 3. Busca el icono de Tampermonkey en la barra de extensiones, haz click en él y selecciona "Panel de control".
+
 ![](https://i.postimg.cc/02Dnvdrc/image.png)
 4. Confirma que está instalado en la pestaña de "Userscripts instalados".
+
 ![](https://i.postimg.cc/436Rhh8M/image.png)
 #### Método 2:
 1. Busca el icono de Tampermonkey en la barra de extensiones, haz click en él y selecciona "Panel de control".
+
 ![](https://i.postimg.cc/02Dnvdrc/image.png)
 2. En la ventana que se abre, busca la pestalla de "Utilidades".
 3. En la parte inferior de la página, en el campo de "Importar desde URL", pega el siguiente enlace:
   - (https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES-1.0.user.js)
 4. Después, haz click en "Instalar".
+
 ![](https://i.postimg.cc/5NVvBcNL/image.png)
 5. Se abrirá otra página en la que tendrás que volver a hacer click en "Instalar".
+
 ![](https://i.postimg.cc/SQDqrCmC/image.png)
 6. Finalmente, confirma que está instalado en la pestaña de "Userscripts instalados".
+
 ![](https://i.postimg.cc/436Rhh8M/image.png)
 
 ## Leer y ajustar las opciones
 - Una vez instalado, tan solo queda ir a https://neoneon-tribe.com/en/story/
 
 - Si por algún motivo la página está en japonés, haz click en el icono del globo terráqueo situado en la parte superior derecha de la página y selecciona "Español".
+
 ![](https://i.postimg.cc/j5j89D04/image.png)
 
 - El icono del megáfono sirve para encender o apagar la banda sonora de Masafumi Takada.
+
 ![](https://i.postimg.cc/bJnDnLX8/image.png)
 
 - En el apartado "CONFIG" puedes personalizar distintos parámetros para leer a tu gusto.
+
 ![](https://i.postimg.cc/RC2B7BK7/image.png)
 
 - El botón "PANTALLA" sirve para alternar entre leer en pantalla completa o en el recuadro de la televisión.
+
 ![](https://i.postimg.cc/vZtwwxkw/image.png)
 
 **¡A disfrutar!**
