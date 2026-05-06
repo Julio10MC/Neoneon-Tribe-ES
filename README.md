@@ -107,4 +107,4 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 - **Parche:** [Julio10MC](https://github.com/Julio10MC)
 - **Traducción y revisión:** [Julio10MC](https://github.com/Julio10MC), ENOA
 - **Testeo:** kam
-- **Agredecimientos especiales:** SDU España, Jau_CR
+- **Agradecimientos especiales:** SDU España, Jau_CR
