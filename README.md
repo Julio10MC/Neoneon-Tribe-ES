@@ -98,10 +98,13 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
   - Solo habrá actualizaciones cuando se realicen cambios en la funcionalidad o se arreglen bugs, no tiene por qué haber una cuando lancemos nuevos capítulos traducidos.
 
 - ¿Cuántos capítulos hay disponibles?
-  - El juego original llegó a tener 4 capítulos, del 0 al 3. Todos esos ya han sido lanzados en formato novela, pero el último disponible en inglés es el capítulo 1. El equipo usa como base la versión en inglés de Aksys Games, así que por el momento solo hemos lanzado en español los capítulos 0 y 1.
+  - Hasta el momento, la novela cuenta con 5 capítulos, del 0 al 4. Sin embargo, el último disponible en inglés es el capítulo 1. El equipo usa como base la versión en inglés de Aksys Games, así que por el momento solo hemos lanzado en español los capítulos 0 y 1.
 
 - ¿Cuándo sale el próximo capítulo?
   - No hay forma de saberlo. Primero tiene que salir en japonés, luego en inglés, y finalmente tenemos que traducirlo al español. Todos los involucrados en este proceso trabajamos en ello en nuestro tiempo libre y por amor al arte, paciencia.
 ## Créditos
 - **Coordinación:** [Julio10MC](https://github.com/Julio10MC)
 - **Parche:** [Julio10MC](https://github.com/Julio10MC)
+- **Traducción y revisión:** [Julio10MC](https://github.com/Julio10MC), ENOA
+- **Testeo:** kam
+- **Agredicimientos especiales:** SDU España, Jau_CR

@@ -20,6 +20,11 @@
   "Default": "Normal",
   "Narrow": "Estrecho",
   "Wide": "Ancho",
+  "JUJO": "JŪJŌ",
+  "SAIGO": "SAIGŌ",
+  "HYAKUICHITARO": "HYAKUICHITARŌ",
+  "YO": "YŌ",
+  "OI": "ŌI",
   "Index": "Índice",
   "Chapter 0: \"I Don't Want to Be a Hero Anymore\"": "Capítulo 0: «Ya no quiero ser un héroe»",
   "Episode 1: \"Let's Start the Game\"": "Episodio 1: «Que comience el juego»",
@@ -59,5 +64,11 @@
   "Episode 19: \"The Reason They Obey\"": "Episodio 19: «El motivo por el que obedecen»",
   "Episode 20: \"Night at the Aquarium\"": "Episodio 20: «Noche en el acuario»",
   "Episode 21: \"Time's Running Out\"": "Episodio 21: «Se acaba el tiempo»",
-  "Episode 22: \"Setting Things In Motion\"": "Episodio 22: «Poniendo en marcha el plan»"
+  "Episode 22: \"Setting Things In Motion\"": "Episodio 22: «Poniendo en marcha el plan»",
+  "Episode 23: \"The Reward\"": "Episodio 23: «La recompensa»",
+  "Episode 24: \"Fear of Freedom\"": "Episodio 24: «Miedo a la libertad»",
+  "Episode 25: \"XB vs. Kazuma: Part 1\"": "Episodio 25: «BX vs. Kazuma: Parte 1»",
+  "Episode 26: \"XB vs. Kazuma: Part 2\"": "Episodio 26: «BX vs. Kazuma: Parte 2»",
+  "Episode 27: \"XB vs. Kazuma: Part 3\"": "Episodio 27: «BX vs. Kazuma: Parte 3»",
+  "Episode 28: \"Dawn of Victory\"": "Episodio 28: «El amanecer de la victoria»"
 }
