@@ -103,8 +103,8 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 - ¿Cuándo sale el próximo capítulo?
   - No hay forma de saberlo. Primero tiene que salir en japonés, luego en inglés, y finalmente tenemos que traducirlo al español. Todos los involucrados en este proceso trabajamos en ello en nuestro tiempo libre y por amor al arte, paciencia.
 ## Créditos
-- **Coordinación:** [Julio10MC](https://github.com/Julio10MC)
-- **Parche:** [Julio10MC](https://github.com/Julio10MC)
-- **Traducción y revisión:** [Julio10MC](https://github.com/Julio10MC), ENOA
-- **Testeo:** kam
-- **Agradecimientos especiales:** SDU España, Jau_CR
+- **Coordinación:** [Julio10MC](https://x.com/Julio10NC)
+- **Parche:** [Julio10MC](https://x.com/Julio10NC)
+- **Traducción y revisión:** [Julio10MC](https://x.com/Julio10NC), [Enoa](https://x.com/bakainuema)
+- **Testeo:** [Kam](https://x.com/swelteringnight)
+- **Agradecimientos especiales:** SDU España
