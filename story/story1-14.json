@@ -26,7 +26,7 @@
   "Normalmente no abriría el mensaje de un remitente desconocido, pero Yō procedió a abrir este sin dudar.",
   "Mensaje",
   "Saludos. Me pongo en contacto con usted en relación a la petición realizada por parte del señor Kazuki Aoyama.",
-  "Le pido disculpas por el inconveniente, pero nos gustaría cambiar el lugar de la reunión.",
+  "Le pido disculpas por el inconveniente, pero nos gustaría cambiar el lugar de reunión.",
   "Le esperamos en la zona de transporte de la isla de Hades.",
   "- M.O.",
   "Yō Kuronaka",
@@ -44,7 +44,7 @@
   "Tsuki Iroha",
   "¡Bien! ¡Vamos a ver a M.O.!",
   "Con las energías renovadas, el grupo decidió dirigirse a la zona de transporte de la isla de Hades.",
-  "Pero en cuanto se pusieron en marcha, se perdieron.",
+  "Pero, en cuanto se pusieron en marcha, se perdieron.",
   "Lograron orientarse con el GPS, pero el camino estaba cortado. Como no conocían bien la zona, Yō y el resto decidieron regresar al hotel para pedirle indicaciones a los demás huéspedes.",
   "Al parecer, los huéspedes se habían enterado del despido de la encargada, y también estaban profundamente afligidos.",
   "A pesar de ello, que les preguntaran cómo llegar a la isla de Hades les animó y les dio un propósito, lo que les ayudó a dar indicaciones claras.",
@@ -80,7 +80,7 @@
   "Minami Ōi",
   "Nuestros caminos se cruzaron un par de veces cuando seguía formando parte de la tribu Minato.",
   "Me sorprendió que contactara conmigo, pero teniendo en cuenta que no lo veo por aquí... asumo que le ha sucedido algo.",
-  "Minami hizo una breve pausa, y continuó hablando.",
+  "Minami hizo una breve pausa antes de seguir hablando.",
   "Minami Ōi",
   "Lo cierto es que contactó conmigo hace un tiempo. Me dijo que necesitaba mi ayuda para un asunto.",
   "Sin embargo, no volví a tener noticias de él. Lo que me llevó a usted, señor Kuronaka. Fue el contacto de emergencia que se me proporcionó.",
@@ -111,7 +111,7 @@
   "¡Suéltalo! ¡La gente que se anda con rodeos me toca las narices!",
   "Q",
   "Cálmate. No parece que quiera menospreciarnos.",
-  "Q puso la mano sobre la cabeza de Hyakuichitarō, que estaba en plena rabieta, evitando que se acercara a Minami.",
+  "Q puso la mano sobre la cabeza de Hyakuichitarō, que estaba en plena rabieta, para evitar que se acercara a Minami.",
   "Tsuruko Semba",
   "Te pido perdón, es que él es así. ¡Pero nos encataría saber qué tienes en mente!",
   "Minami Ōi",
@@ -145,5 +145,5 @@
   "Q",
   "Chicos, centraos. Nos estamos distrayendo demasiado con lo de la IA. Volvamos al tema principal.",
   "Minami se dio cuenta de cuánto se había desviado la conversación.",
-  "<span class=\"txt-effect effect-09\">Tosió</span> para aclararse la garganta, y cambió a una expresión seria."
+  "<span class=\"txt-effect effect-09\">Tosió</span> para aclararse la garganta y cambió a una expresión seria."
 ]
