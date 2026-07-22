@@ -71,7 +71,7 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 ## Leer y ajustar las opciones
 - Una vez instalado, tan solo queda ir a https://neoneon-tribe.com/en/story/
 
-- Si por algún motivo la página está en japonés, haz click en el icono del globo terráqueo situado en la parte superior derecha de la página y selecciona "Español".
+- Si por algún motivo la página está en japonés, haz click en el icono del globo terráqueo situado en la parte superior derecha y selecciona "Español".
 
 ![](https://i.postimg.cc/j5j89D04/image.png)
 
@@ -87,6 +87,10 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 
 ![](https://i.postimg.cc/vZtwwxkw/image.png)
 
+- Ciertas partes del texto reaccionan al pasar el cursor por encima. ¡Pruébalo!
+
+![](https://i.postimg.cc/VN1JkgTT/Desktop2026-07-22-20-49-23-01-ezgif-com-video-to-gif-converter.gif)
+
 **¡A disfrutar!**
 
 ## FAQ
@@ -98,13 +102,28 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
   - Solo habrá actualizaciones cuando se realicen cambios en la funcionalidad o se arreglen bugs, no tiene por qué haber una cuando lancemos nuevos capítulos traducidos.
 
 - ¿Cuántos capítulos hay disponibles?
-  - Hasta el momento, la novela cuenta con 5 capítulos, del 0 al 4. Sin embargo, el último disponible en inglés es el capítulo 1. El equipo usa como base la versión en inglés de Aksys Games, así que por el momento solo hemos lanzado en español los capítulos 0 y 1.
+  - Hasta el momento, la novela cuenta con 6 capítulos, del 0 al 5. Sin embargo, el último disponible en inglés es el capítulo 1. El equipo usa como base la versión en inglés de Aksys Games, así que por el momento solo hemos lanzado en español los capítulos 0 y 1.
 
 - ¿Cuándo sale el próximo capítulo?
   - No hay forma de saberlo. Primero tiene que salir en japonés, luego en inglés, y finalmente tenemos que traducirlo al español. Todos los involucrados en este proceso trabajamos en ello en nuestro tiempo libre y por amor al arte, paciencia.
 ## Créditos
+
+### Traducción
+
 - **Coordinación:** [Julio10MC](https://x.com/Julio10NC)
 - **Parche:** [Julio10MC](https://x.com/Julio10NC)
 - **Traducción y revisión:** [Julio10MC](https://x.com/Julio10NC), [Enoa](https://x.com/bakainuema)
 - **Testeo:** [Kam](https://x.com/swelteringnight)
 - **Agradecimientos especiales:** SDU España
+
+### Obra original
+
+TRIBE NINE pertenece a Akatsuki Games Inc. Todos los derechos reservados.
+
+Neoneon Tribe es un proyecto derivado independiente y no oficial, créditos a todos sus integrantes y colaboradores.
+
+- [Sitio web](https://neoneon-tribe.com/)
+- [X (Twitter)](https://x.com/neoneon_tribe)
+- [Discord](https://t.co/3Q9uvikQWU)
+
+Tanto la iniciativa Neoneon como esta traducción siguen [las directrices para obras derivadas de TRIBE NINE](https://tribenine.tokyo/en/news/241226/).
