@@ -15,23 +15,22 @@
 (function () {
     'use strict';
 
-    const REPO_BASE = "https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/";
+    const REPO_BASE = "https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/assets/";
     const NEW_SCREEN_BTN_URL = REPO_BASE + "media/screen_btn.png";
-
     const UI_SELECTOR = 'a, h2, h3, h4, span, li, p, .name, .main-txt, .prev, .next';
     const STORY_SELECTOR = '.chapter-tl, .caption, .episode-tl, .story-inner p:not(.illust-img)';
+    const STORY_INDEX_WIDGET_SELECTOR = '.story-contents';
 
-    const dictionaries = { global: {}, local: {} };
+    const dictionaries = { global: {}, local: {}, index: {} };
     let currentPath = "";
     let observer = null;
     let applyScheduled = false;
+    let storyIndexRequested = false;
 
     injectFonts();
     observer = new MutationObserver(handleMutation);
     loadDictionaries();
     observer.observe(document.body, { childList: true, subtree: true });
-
-    // ---------- fonts ----------
 
     function injectFonts() {
         const fonts = [
@@ -58,8 +57,6 @@
 
         GM_addStyle(css);
     }
-
-    // ---------- dictionary ----------
 
     function loadDictionaries() {
         const path = window.location.pathname;
@@ -91,6 +88,17 @@
         }
     }
 
+    function storyIndexDictionary() {
+        if (storyIndexRequested) return;
+        if (!document.querySelector(STORY_INDEX_WIDGET_SELECTOR)) return;
+
+        storyIndexRequested = true;
+        fetchData(REPO_BASE + "story_index.json", (data) => {
+            dictionaries.index = data || {};
+            scheduleApply();
+        });
+    }
+
     function fetchData(url, callback) {
         GM_xmlhttpRequest({
             method: "GET",
@@ -112,14 +120,11 @@
         });
     }
 
-    // Story JSON files dictionary level
     function getStoryLines() {
         if (Array.isArray(dictionaries.local)) return dictionaries.local;
         if (Array.isArray(dictionaries.local[0])) return dictionaries.local[0];
         return [];
     }
-
-    // ---------- mutation ----------
 
     function handleMutation() {
         scheduleApply();
@@ -128,7 +133,6 @@
         }
     }
 
-    // Single applyAll() for mutations
     function scheduleApply() {
         if (applyScheduled) return;
         applyScheduled = true;
@@ -138,11 +142,10 @@
         });
     }
 
-    // ---------- translation pass ----------
-
     function applyAll() {
         observer?.disconnect();
 
+        storyIndexDictionary();
         translateUiText();
         replaceScreenButton();
 
@@ -171,6 +174,12 @@
                 const globalMatch = dictionaries.global[txt];
                 if (globalMatch && node.nodeValue !== globalMatch) {
                     node.nodeValue = globalMatch;
+                    return;
+                }
+
+                const indexMatch = dictionaries.index[txt];
+                if (indexMatch && node.nodeValue !== indexMatch) {
+                    node.nodeValue = indexMatch;
                     return;
                 }
 
