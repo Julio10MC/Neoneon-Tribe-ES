@@ -35,7 +35,7 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 ### Instalar el script en Tampermonkey
 
 #### Método 1:
-1. Haz click [aquí](https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES.user.js).
+1. Haz click [aquí](https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/refs/heads/main/Neoneon_Tribe_ES.user.js).
 2. Se abrirá otra página en la que tendrás que hacer click en "Instalar".
 
 ![](https://i.postimg.cc/SQDqrCmC/image.png)
@@ -55,7 +55,7 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 
 2. En la ventana que se abre, busca la pestalla de "Utilidades".
 3. En la parte inferior de la página, en el campo de "Importar desde URL", pega el siguiente enlace:
-  - (https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES.user.js)
+  - (https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/refs/heads/main/Neoneon_Tribe_ES.user.js)
 4. Después, haz click en "Instalar".
 
 ![](https://i.postimg.cc/5NVvBcNL/image.png)
