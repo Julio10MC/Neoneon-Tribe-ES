@@ -8,8 +8,8 @@
 // @grant        GM_addStyle
 // @connect      raw.githubusercontent.com
 // @run-at       document-end
-// @updateURL    https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/Neoneon_Tribe_ES.user.js
-// @downloadURL  https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/main/Neoneon_Tribe_ES.user.js
+// @updateURL    https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/refs/heads/main/Neoneon_Tribe_ES.user.js
+// @downloadURL  https://raw.githubusercontent.com/Julio10MC/Neoneon-Tribe-ES/refs/heads/main/Neoneon_Tribe_ES.user.js
 // ==/UserScript==
 
 (function () {
