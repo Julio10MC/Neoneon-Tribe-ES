@@ -35,7 +35,7 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 ### Instalar el script en Tampermonkey
 
 #### Método 1:
-1. Haz click [aquí](https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES-1.0.user.js).
+1. Haz click [aquí](https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES.user.js).
 2. Se abrirá otra página en la que tendrás que hacer click en "Instalar".
 
 ![](https://i.postimg.cc/SQDqrCmC/image.png)
@@ -55,7 +55,7 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 
 2. En la ventana que se abre, busca la pestalla de "Utilidades".
 3. En la parte inferior de la página, en el campo de "Importar desde URL", pega el siguiente enlace:
-  - (https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES-1.0.user.js)
+  - (https://github.com/Julio10MC/Neoneon-Tribe-ES/raw/refs/heads/main/Neoneon%20Tribe%20ES.user.js)
 4. Después, haz click en "Instalar".
 
 ![](https://i.postimg.cc/5NVvBcNL/image.png)
@@ -102,7 +102,7 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
   - Solo habrá actualizaciones cuando se realicen cambios en la funcionalidad o se arreglen bugs, no tiene por qué haber una cuando lancemos nuevos capítulos traducidos.
 
 - ¿Cuántos capítulos hay disponibles?
-  - Hasta el momento, la novela cuenta con 6 capítulos, del 0 al 5. Sin embargo, el último disponible en inglés es el capítulo 1. El equipo usa como base la versión en inglés de Aksys Games, así que por el momento solo hemos lanzado en español los capítulos 0 y 1.
+  - Hasta el momento, la novela cuenta con 7 capítulos, del 0 al 6. Sin embargo, el último disponible en inglés es el capítulo 2. El equipo usa como base la versión en inglés de Aksys Games, así que por el momento solo hemos lanzado en español los capítulos 0, 1 y 2.
 
 - ¿Cuándo sale el próximo capítulo?
   - No hay forma de saberlo. Primero tiene que salir en japonés, luego en inglés, y finalmente tenemos que traducirlo al español. Todos los involucrados en este proceso trabajamos en ello en nuestro tiempo libre y por amor al arte, paciencia.
@@ -111,7 +111,6 @@ Primero, es necesario instalar la extensión Tampermonkey en el navegador (o alg
 ### Traducción
 
 - **Coordinación:** [Julio10MC](https://x.com/Julio10NC)
-- **Parche:** [Julio10MC](https://x.com/Julio10NC)
 - **Traducción y revisión:** [Julio10MC](https://x.com/Julio10NC), [Enoa](https://x.com/bakainuema)
 - **Testeo:** [Kam](https://x.com/swelteringnight)
 - **Agradecimientos especiales:** SDU España

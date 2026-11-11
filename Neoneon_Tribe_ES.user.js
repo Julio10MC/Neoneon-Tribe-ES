@@ -62,6 +62,7 @@
         const path = window.location.pathname;
         if (path === currentPath) return;
         currentPath = path;
+        dictionaries.local = {};
 
         fetchData(REPO_BASE + "global_ui.json", (data) => {
             dictionaries.global = data || {};
@@ -75,7 +76,10 @@
             localUrl = REPO_BASE + "characters.json";
         } else if (path.includes("/story/")) {
             const chapterId = path.split('/').filter(Boolean).pop();
-            localUrl = REPO_BASE + "story/" + chapterId + ".json";
+            const chapter = chapterId.match(/^(story\d+)-\d+$/);
+            if (chapter) {
+                localUrl = REPO_BASE + "story/" + chapter[1] + "/" + chapterId + ".json";
+            }
         }
 
         if (localUrl) {
@@ -83,8 +87,6 @@
                 dictionaries.local = data || {};
                 scheduleApply();
             });
-        } else {
-            dictionaries.local = {};
         }
     }
 
