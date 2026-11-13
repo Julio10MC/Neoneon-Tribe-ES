@@ -20,5 +20,7 @@
   "Default": "Normal",
   "Narrow": "Estrecho",
   "Wide": "Ancho",
-  "Index": "Índice"
+  "Index": "Índice",
+  "このサイトでは音声が流れます。": "Este sitio web reproduce sonido.",
+  "音声をONにしますか？": "¿Quieres activarlo?"
 }
