@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Neoneon Tribe ES
 // @namespace    neo.neon
+// @author       Julio10MC
 // @version      1.0
 // @description  Traducción al español de Tribe Nine
 // @match        *://neoneon-tribe.com/*
